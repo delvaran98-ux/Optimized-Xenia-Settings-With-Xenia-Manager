@@ -1,0 +1,65 @@
+Spider-Man 3 Settings for Xenia Manager Xenia Canary 360 Emulator:
+
+Audio Section:
+
+Audio System=Any
+
+Max Queued Frames=4
+
+Mute=False
+
+XMP=True
+
+XMP Default Volume
+
+70%
+
+Dedicated XMA Thread
+
+XMA Audio Decoder=True
+(Exnerimental)
+
+Display:
+
+Fullscreen=True
+
+Internal Display Resolution=1920×1080
+
+Letterbox=False
+
+Widescreen=True
+
+Vertical Sync=False
+
+Framerate Limit=Off
+
+Graphics:
+
+Graphics API=D3D12
+
+Variable Refresh Rate=True
+
+Render Target Path=RTV
+
+Queue Priority=High
+
+Readback Resolve=True
+
+Draw Resolution Scale=1.0
+
+Anti-Aliasing=FXAA
+
+Scaling & Sharpening=FidelityFX CAS
+
+FSR Sharpness Reduction=0.200
+
+CAS Additional Sharpness=0.390
+
+Query Occlusion Fake Sample Count=50
+(Lower Threshold)
+
+Query Occlusion Fake Sample Count=100
+(Upper Threshold)
+
+
+DISCLIAMER: These settings personally worked for me i hope they work for whoever comes across the settings i will be releasing as i learn more.
