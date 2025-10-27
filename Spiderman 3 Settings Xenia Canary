@@ -49,7 +49,7 @@ Draw Resolution Scale=1.0
 
 Anti-Aliasing=FXAA
 
-Scaling & Sharpening=FidelityFX CAS
+Scaling & Sharpening=FidelityFX CAS/FSR OPTIONAL CHOICES: Performance go for (Bilinear) 
 
 FSR Sharpness Reduction=0.200
 
